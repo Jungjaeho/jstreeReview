@@ -4,6 +4,9 @@
  * Saves the state of the tree (selected nodes, opened nodes) on the user's computer using available options (localStorage, cookies, etc)
  */
 /*globals jQuery, define, exports, require */
+
+// 정종석 왜 안되냐?
+
 (function (factory) {
 	"use strict";
 	if (typeof define === 'function' && define.amd) {
